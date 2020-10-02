@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://rafasalgado.github.io/personal/
 
 - 🔭 I am currently working in Porvenir as an aws architecture analyst
 - 🌱 I’m currently learning machine learning 
