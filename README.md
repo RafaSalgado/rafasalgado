@@ -2,7 +2,7 @@
 
 https://rafasalgado.github.io/personal/
 
-- 🔭 I am currently working in Porvenir as an aws architecture analyst
+- 🔭 I am currently working in MeLi as a Software Development Analyst
 - 🌱 I’m currently learning machine learning 
 - 💬 Ask me about travel, nature and books
 - 📫 How to reach me: email rasalgadol@unal.edu.co  and ig: raficordm
