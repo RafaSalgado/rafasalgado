@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://rafasalgado.github.io/personal/
+[My site](https://rafasalgado.github.io/my-site/).
+[my old site](https://rafasalgado.github.io/personal/).
 
 - 🔭 I am currently working in Mercado Libre as a Software Engineer
 - 🌱 I’m currently learning machine learning 
